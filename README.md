@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi, Chris here!!! 👋
+### A undergraduate student from USTC:
+- 🔭 I’m currently working on AI related content, especially in NLP, LLMs...
+- 🌱 I’m currently starting from zero..qwq
 <!--
 **grandY0uzzx/grandY0uzzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
